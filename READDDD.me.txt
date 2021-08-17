@@ -1,0 +1,7 @@
+------ Tricks ------
+
+Author: M.RizkyP.
+Projet Name: Spam Massage
+Time: 2020
+Version: 1.0
+License: now---OpenSource
