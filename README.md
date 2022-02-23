@@ -1,4 +1,4 @@
-# VIRUS
+# Pesan & Message
 My code is free and open source althought is just simple code
 
 ![1spam](https://user-images.githubusercontent.com/73746365/155254647-8a2cccf2-adcc-46ca-aec6-e3af81f1ed1d.jpg)
